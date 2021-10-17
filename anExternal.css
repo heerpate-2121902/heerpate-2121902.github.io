@@ -1,4 +1,45 @@
-a {
-    font-family: "Didact Gothic", sans-serif;
-    text-align: center;
+body {
+    background-color: orange;
   }
+
+p {
+   color: ivory;
+   text-align: center;
+  }
+
+a {
+  color: rgb(76, 143, 32);
+  text-align: center;
+  }
+
+h2 {
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+
+.container {
+  border-style: dotted;
+  border-radius: 6px;
+  border-color: black;
+  margin: auto;
+}
+
+#middle {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10%;
+  float: right;
+}
+
+
+#headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 326px;
+  height: 244px;
+}
